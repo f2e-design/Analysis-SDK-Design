@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/f2e-design/Analysis-SDK-Design/issues"
   },
-  "homepage": "https://github.com/f2e-design/Analysis-SDK-Design#readme"
+  "homepage": "https://github.com/f2e-design/Analysis-SDK-Design#readme",
+  "devDependencies": {
+    "gh-pages": "^2.0.1",
+    "standard-version": "^6.0.1"
+  }
 }
